@@ -1,0 +1,329 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* SenchaTouch */ = {
+		activeExec = 0;
+		executables = (
+			88E1861210FFAAF800E39AB5 /* SenchaTouch */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 88E1861210FFAAF800E39AB5 /* SenchaTouch */;
+		activeSDKPreference = iphonesimulator4.1;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SenchaTouch */;
+		codeSenseManager = 88E1863610FFAB0000E39AB5 /* Code sense */;
+		executables = (
+			88E1861210FFAAF800E39AB5 /* SenchaTouch */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					948,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310067361;
+			PBXWorkspaceStateSaveDate = 310067361;
+		};
+		perUserProjectItems = {
+			88ACCD11127B43D3000A86CB /* PBXTextBookmark */ = 88ACCD11127B43D3000A86CB /* PBXTextBookmark */;
+			88ACCD13127B43D3000A86CB /* PBXTextBookmark */ = 88ACCD13127B43D3000A86CB /* PBXTextBookmark */;
+			88ACCEFF127B4436000A86CB /* PBXTextBookmark */ = 88ACCEFF127B4436000A86CB /* PBXTextBookmark */;
+			88ACCF01127B4436000A86CB /* PBXTextBookmark */ = 88ACCF01127B4436000A86CB /* PBXTextBookmark */;
+			88ACCF03127B4436000A86CB /* PBXTextBookmark */ = 88ACCF03127B4436000A86CB /* PBXTextBookmark */;
+			88ACCF04127B4436000A86CB /* PBXTextBookmark */ = 88ACCF04127B4436000A86CB /* PBXTextBookmark */;
+			88ACCF0B127B4493000A86CB /* PBXTextBookmark */ = 88ACCF0B127B4493000A86CB /* PBXTextBookmark */;
+			88ACCF0D127B4493000A86CB /* PBXBookmark */ = 88ACCF0D127B4493000A86CB /* PBXBookmark */;
+			88ACCF0F127B4493000A86CB /* PBXTextBookmark */ = 88ACCF0F127B4493000A86CB /* PBXTextBookmark */;
+			88ACCF10127B4493000A86CB /* PBXTextBookmark */ = 88ACCF10127B4493000A86CB /* PBXTextBookmark */;
+			88ACCF11127B4493000A86CB /* PBXTextBookmark */ = 88ACCF11127B4493000A86CB /* PBXTextBookmark */;
+			88ACCF12127B4493000A86CB /* PBXTextBookmark */ = 88ACCF12127B4493000A86CB /* PBXTextBookmark */;
+			88ACCFC7127B455E000A86CB /* PBXTextBookmark */ = 88ACCFC7127B455E000A86CB /* PBXTextBookmark */;
+			88ACCFCF127B45E4000A86CB /* PBXTextBookmark */ = 88ACCFCF127B45E4000A86CB /* PBXTextBookmark */;
+			88ACCFDA127B465E000A86CB /* PBXTextBookmark */ = 88ACCFDA127B465E000A86CB /* PBXTextBookmark */;
+			88ACCFDF127B4683000A86CB /* PBXTextBookmark */ = 88ACCFDF127B4683000A86CB /* PBXTextBookmark */;
+			88ACCFEB127B46B8000A86CB /* PBXTextBookmark */ = 88ACCFEB127B46B8000A86CB /* PBXTextBookmark */;
+		};
+		sourceControlManager = 88E1863510FFAB0000E39AB5 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	88ACCD11127B43D3000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCD12127B43D3000A86CB /* index.html */;
+		name = "index.html: 30";
+		rLen = 0;
+		rLoc = 1123;
+		rType = 0;
+		vrLen = 827;
+		vrLoc = 0;
+	};
+	88ACCD12127B43D3000A86CB /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = /Users/jesse/Documents/SenchaTouch/www/index.html;
+		sourceTree = "<absolute>";
+	};
+	88ACCD13127B43D3000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCD14127B43D3000A86CB /* index.html */;
+		name = "index.html: 30";
+		rLen = 0;
+		rLoc = 1123;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 0;
+	};
+	88ACCD14127B43D3000A86CB /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = /Users/jesse/Documents/SenchaTouch/www/index.html;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1126, 650}}";
+			sepNavSelRange = "{615, 0}";
+			sepNavVisRange = "{161, 962}";
+		};
+	};
+	88ACCEFF127B4436000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCF00127B4436000A86CB /* index.js */;
+		name = "index.js: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1476;
+		vrLoc = 0;
+	};
+	88ACCF00127B4436000A86CB /* index.js */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.javascript;
+		name = index.js;
+		path = /Users/jesse/Documents/SenchaTouch/www/index.js;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1126, 1495}}";
+			sepNavSelRange = "{626, 0}";
+			sepNavVisRange = "{0, 1530}";
+		};
+	};
+	88ACCF01127B4436000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCF02127B4436000A86CB /* phonegap.js */;
+		name = "phonegap.js: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1034;
+		vrLoc = 0;
+	};
+	88ACCF02127B4436000A86CB /* phonegap.js */ = {
+		isa = PBXFileReference;
+		name = phonegap.js;
+		path = /Users/jesse/Documents/SenchaTouch/www/phonegap.js;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1126, 21125}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1060}";
+		};
+	};
+	88ACCF03127B4436000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCD12127B43D3000A86CB /* index.html */;
+		name = "index.html: 30";
+		rLen = 0;
+		rLoc = 1123;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 0;
+	};
+	88ACCF04127B4436000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCD14127B43D3000A86CB /* index.html */;
+		name = "index.html: 17";
+		rLen = 0;
+		rLoc = 545;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 0;
+	};
+	88ACCF0B127B4493000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCF0C127B4493000A86CB /* Scroller.js */;
+		name = "Scroller.js: 240";
+		rLen = 0;
+		rLoc = 7442;
+		rType = 0;
+		vrLen = 1221;
+		vrLoc = 6739;
+	};
+	88ACCF0C127B4493000A86CB /* Scroller.js */ = {
+		isa = PBXFileReference;
+		name = Scroller.js;
+		path = /Users/jesse/Documents/SenchaTouch/www/src/util/Scroller.js;
+		sourceTree = "<absolute>";
+	};
+	88ACCF0D127B4493000A86CB /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 88ACCF0E127B4493000A86CB /* tablet_startup.png */;
+	};
+	88ACCF0E127B4493000A86CB /* tablet_startup.png */ = {
+		isa = PBXFileReference;
+		name = tablet_startup.png;
+		path = /Users/jesse/Documents/SenchaTouch/www/tablet_startup.png;
+		sourceTree = "<absolute>";
+	};
+	88ACCF0F127B4493000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCF02127B4436000A86CB /* phonegap.js */;
+		name = "phonegap.js: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1060;
+		vrLoc = 0;
+	};
+	88ACCF10127B4493000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCF00127B4436000A86CB /* index.js */;
+		name = "index.js: 18";
+		rLen = 0;
+		rLoc = 626;
+		rType = 0;
+		vrLen = 1530;
+		vrLoc = 0;
+	};
+	88ACCF11127B4493000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCD14127B43D3000A86CB /* index.html */;
+		name = "index.html: 17";
+		rLen = 0;
+		rLoc = 545;
+		rType = 0;
+		vrLen = 815;
+		vrLoc = 0;
+	};
+	88ACCF12127B4493000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCD14127B43D3000A86CB /* index.html */;
+		name = "index.html: 31";
+		rLen = 0;
+		rLoc = 958;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 0;
+	};
+	88ACCFC7127B455E000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCD14127B43D3000A86CB /* index.html */;
+		name = "index.html: 31";
+		rLen = 0;
+		rLoc = 958;
+		rType = 0;
+		vrLen = 912;
+		vrLoc = 0;
+	};
+	88ACCFCF127B45E4000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCD14127B43D3000A86CB /* index.html */;
+		name = "index.html: 13";
+		rLen = 0;
+		rLoc = 335;
+		rType = 0;
+		vrLen = 975;
+		vrLoc = 0;
+	};
+	88ACCFDA127B465E000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCD14127B43D3000A86CB /* index.html */;
+		name = "index.html: 20";
+		rLen = 0;
+		rLoc = 516;
+		rType = 0;
+		vrLen = 1041;
+		vrLoc = 16;
+	};
+	88ACCFDF127B4683000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCD14127B43D3000A86CB /* index.html */;
+		name = "index.html: 24";
+		rLen = 0;
+		rLoc = 675;
+		rType = 0;
+		vrLen = 1041;
+		vrLoc = 16;
+	};
+	88ACCFEB127B46B8000A86CB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88ACCD14127B43D3000A86CB /* index.html */;
+		name = "index.html: 23";
+		rLen = 0;
+		rLoc = 615;
+		rType = 0;
+		vrLen = 962;
+		vrLoc = 161;
+	};
+	88E1861210FFAAF800E39AB5 /* SenchaTouch */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SenchaTouch;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	88E1863510FFAB0000E39AB5 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	88E1863610FFAB0000E39AB5 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
