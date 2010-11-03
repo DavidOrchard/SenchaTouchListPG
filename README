@@ -1,0 +1,2 @@
+Sencha Touch List example that scrolls in Chrome but not in PhoneGap.
+There are 2 flavours, one that runs the Sencha code after PhoneGap is initialized (current) and one that will run the Sencha Code right away.
