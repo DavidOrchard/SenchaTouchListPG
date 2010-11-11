@@ -9,14 +9,13 @@ Ext.setup({
         });
 
         var groupingBase = {
-            tpl: '<tpl for="."><div class="contact"><strong>{firstName}</strong> {lastName}</div></tpl>',
-            itemSelector: 'div.contact',
+            itemTpl: '<div class="contact2"><strong>{firstName}</strong> {lastName}</div>',
+
 
             singleSelect: true,
             grouped: true,
             indexBar: true,
-			scroll: 'vertical',
-		  
+
             disclosure: {
                 scope: 'test',
                 handler: function(record, btn, index) {
@@ -177,15 +176,13 @@ Ext.setup({
                 width: 350,
                 height: 370,
                 centered: true,
-								   scroll: 'vertical',
-								   modal: true,
+                modal: true,
                 hideOnMaskTap: false
             })).show();
         }
         else {
             new Ext.List(Ext.apply(groupingBase, {
-								   scroll: 'vertical',
-								   fullscreen: true
+                fullscreen: true
             }));
         }
     }
